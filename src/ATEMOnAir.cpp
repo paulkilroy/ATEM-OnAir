@@ -8,6 +8,7 @@
 #include <EEPROM.h>
 #include <ATEMmin.h>
 
+
 // For OLIMEX ESP32-POE
 // Need to move these to HWRev if there is another ethernet based device
 #define ETH_CLK_MODE ETH_CLOCK_GPIO17_OUT
